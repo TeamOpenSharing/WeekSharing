@@ -1,0 +1,3 @@
+https://github.com/TeamOpenSharing/WeekSharing,
+https://github.com/bibobibo/CommonJS_example,
+https://github.com/bibobibo/AMD_example
